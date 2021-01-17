@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">AssessmentDubizzle</string>
+    <string name="title_market">Dubizzel Assessment</string>
+    <string name="dynamo_writer_details">Dubizzel Details</string>
+    <string name="no_data_found">No data found</string>
+    <string name="please_wait">Please wait</string>
+    <string name="fetching_data">Fetching data....</string>
+    <string name="txt_name">Name: </string>
+    <string name="txt_price">Price: </string>
+    <string name="txt_uid">UID: </string>
+    <string name="txt_created_at">Created at: </string>
+</resources>
